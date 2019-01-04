@@ -1,2 +1,2 @@
 # untitled
-I love coffee,pizza,and cake.
+I love :coffee,:pizza,and :cake.
